@@ -32,7 +32,7 @@ def password_generator(length):
     password = ''.join(password)
     return password
 
-while __name__ == '__main__':
+if __name__ == '__main__':
     while True:
         try:
             length = int(input("Enter your desired length (at least 4): "))
