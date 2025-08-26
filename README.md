@@ -12,5 +12,7 @@ cd python-mini-projects
 - `1-simple-password-generator`
 - `2-email-address-validator`
 - `3-morse-code-translator`
+- `4-simple-todo-list`
+- `5-advanced-todo-list` (optional)
 
 Happy coding! 💻
